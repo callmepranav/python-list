@@ -1,3 +1,5 @@
 # python-list
-lists in python
+#lists in python
 name = ['pranav','rahul']
+name.pop()
+print(name)
